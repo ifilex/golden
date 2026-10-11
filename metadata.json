@@ -1,0 +1,6 @@
+{
+  "name": "AXE WARRIORS",
+  "description": "Authentic arcade beat-'em-up tribute with Ax Battler, Tyris Flare, and Gilius Thunderhead. Featuring Minecraft-style 3D voxel entities with classic 2D combat, mounts, local co-op, online leaderboards, and custom retro soundtrack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
